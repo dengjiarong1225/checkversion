@@ -1,6 +1,6 @@
 {
   "name": "checkversionplugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "check version and refresh page for spa app.",
   "main": "index.js",
   "scripts": {
